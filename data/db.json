@@ -1,0 +1,22 @@
+{
+    "movies": [
+        {
+            "Movie": "American Psycho",
+            "Director": "Mary Harron",
+            "Cast": "Christian Bale",
+            "id": 1
+        },
+        {
+            "Movie": "The Batman",
+            "Director": "Matt Reeves",
+            "Cast": "Robert Pattinson",
+            "id": 2
+        },
+        {
+            "Movie": "The Prestige",
+            "Director": "Christopher Nolan",
+            "Cast": "Christian Bale",
+            " id": 3
+        }
+    ]
+}
